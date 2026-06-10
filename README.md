@@ -20,9 +20,12 @@ I received my B.S. in Electrical Engineering with honors and my B.S. in Computer
 
 #### Highlighted Publications
 
-* [![arXiv](https://img.shields.io/badge/quant--ph-arXiv:2606.08276-b31b1b.svg?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2606.08276)
-* [![arXiv](https://img.shields.io/badge/quant--ph-arXiv:2405.17486-b31b1b.svg?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2405.17486)
-* [![Thesis](https://img.shields.io/badge/VTechWorks-10919/111788-orange.svg)](http://hdl.handle.net/10919/111788)
+Link | Title
+--- | ---
+[![arXiv](https://img.shields.io/badge/quant--ph-arXiv:2606.08276-b31b1b.svg?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2606.08276) | QnRL: Quantum-Native Reinforcement Learning
+[![arXiv](https://img.shields.io/badge/quant--ph-arXiv:2405.17486-b31b1b.svg?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2405.17486) | eQMARL: Entangled Quantum Multi-Agent Reinforcement Learning for Distributed Cooperation over Quantum Channels
+[![Thesis](https://img.shields.io/badge/VTechWorks-10919/111788-orange.svg)](http://hdl.handle.net/10919/111788) | Transformer Networks for Smart Cities: Framework and Application to Makassar Smart Garden Alleys
+
 
 #### Find me on the web
 
