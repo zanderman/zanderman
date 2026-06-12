@@ -10,7 +10,7 @@
 I received my B.S. in Electrical Engineering with honors and my B.S. in Computer Science with honors from Virginia Tech in 2016, and my M.S. in Electrical Engineering in 2022. I am currently a Ph.D. candidate and Bradley Fellow in the Bradley Department of Electrical and Computer Engineering at the Virginia Tech Institute for Advanced Computing. Between 2017 and 2024, I worked as an Electronics Engineer for the U.S. Naval Research Laboratory (NRL) Naval Center for Space Technology (NCST) Space Systems Development Division (SSDD). During this tenure, I researched, designed, and developed space-system technologies in the areas of rocketry, communications, optics, networking, tactical network modeling, surveillance and tracking, software engineering, Positioning, Navigation, and Timing (PNT), and Precise Time and Time Interval (PTTI) theory and applications. My research focuses on designing quantum-native artificial intelligence systems that leverage unique quantum mechanical properties to facilitate learning and operation naturally within the quantum domain.
 
 > [!TIP]
-> See my :newspaper: [cv](https://zanderman.github.io/cv/) PDF for further details.
+> See my :newspaper: [cv](https://zanderman.github.io/vitae/cv/) PDF for further details.
 
 #### Highlighted Respositories
 
